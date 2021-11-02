@@ -2,8 +2,9 @@
 
 The data consisting of student's achievement in two Portuguese secondary schools includes grades, demographic, social and school related features. Collected using school reports and questionnaires, it includes two subjects: Mathematics (mat) and Portuguese language (por) which were modeled under binary/five-level classification and regression tasks. <p> Note: target attribute G3 has a strong correlation with attributes G2 and G1. <br /> This occurs because G3 is the final year grade, while G1 and G2 corresponds to 1st and 2nd period grades. It is more difficult to predict G3 without G2 and G1, but such prediction is much more useful.
 
-Data: [Student](https://archive.ics.uci.edu/ml/datasets/student+performance) </p>
-Relevant papers: [Data Mining Prediction](http://www3.dsi.uminho.pt/pcortez/student.pdf)
+Data: [Student](https://archive.ics.uci.edu/ml/datasets/student+performance) <p>
+Relevant papers: [Data Mining Prediction](http://www3.dsi.uminho.pt/pcortez/student.pdf) <p>
+Observations: [My Personal Report](https://evantyy.github.io/predict-student-perf/)
 
 ## Description
 
