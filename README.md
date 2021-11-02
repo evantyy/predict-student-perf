@@ -4,7 +4,7 @@ The data consisting of student's achievement in two Portuguese secondary schools
 
 Data: [Student](https://archive.ics.uci.edu/ml/datasets/student+performance) <p>
 Relevant papers: [Data Mining Prediction](http://www3.dsi.uminho.pt/pcortez/student.pdf) <p>
-Observations: [My Personal Report](https://evantyy.github.io/predict-student-perf/)
+Observations: [Personal RMarkdown Report](https://evantyy.github.io/predict-student-perf/)
 
 ## Description
 
